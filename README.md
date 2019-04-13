@@ -1,6 +1,6 @@
-#HTTP Client
+# HTTP Client
 *Computer systems and Networks. Laboratory Work №4. Variant №2*
-#Task
+# Task
 Задание выполняется на любом языке
 программирования, допускается использование компонент ClientSocket,
 ServerSocket, TcpClient, TcpServer в C++Builder/Delphi и аналогичных классов в
